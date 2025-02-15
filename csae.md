@@ -1,0 +1,61 @@
+---
+description: >-
+  Standards Against Child Sexual Abuse and Exploitation (CSAE) for Kalimati
+  Bajar App
+---
+
+# CSAE
+
+
+
+At Kalimati Bajar, we are committed to maintaining a safe and secure environment for all users, particularly minors. We have developed comprehensive standards and practices to prevent Child Sexual Abuse and Exploitation (CSAE) on our platform. These standards are in place to protect children and ensure the app is a safe space for all users.
+
+**1. Zero Tolerance Policy on CSAE**
+
+* We enforce a strict zero-tolerance policy against CSAE. Any content that promotes, depicts, or exploits children in any form of abuse is strictly prohibited and will be promptly removed from the platform.
+* Users found engaging in or promoting CSAE-related activities will face immediate account suspension or termination and will be reported to the relevant authorities.
+
+**2. Monitoring and Detection Systems**
+
+* Our app utilizes advanced automated systems and moderation tools to detect and block inappropriate content related to CSAE.
+* We continuously update our monitoring systems to stay ahead of new CSAE threats and patterns, ensuring prompt identification and removal of harmful content.
+
+**3. Reporting Mechanism**
+
+* We provide a simple, confidential reporting system that allows users to flag any content or behavior they believe violates our CSAE standards.
+* Reports are taken seriously and reviewed promptly by our dedicated moderation team, who are trained in handling CSAE-related incidents in accordance with the law.
+
+**4. Collaboration with Authorities**
+
+* We cooperate fully with law enforcement agencies, child protection organizations, and other relevant authorities to combat CSAE.
+* Any reported incidents of CSAE will be escalated to the proper authorities, with information shared as required by law.
+
+**5. Education and Awareness**
+
+* We promote ongoing education and awareness for both users and staff about CSAE risks, how to identify warning signs, and how to report suspicious activities.
+* Regular internal training ensures that our staff members understand the severity of CSAE and can respond quickly and appropriately to any concerns.
+
+**6. Strict Age Verification**
+
+* We implement strict age verification procedures to ensure that children under the age of 13 are not using the app, in compliance with applicable laws (such as COPPA in the United States).
+* Users are required to confirm their age during the registration process, and we continuously monitor for any underage users attempting to access the app.
+
+**7. Content Restrictions**
+
+* We ban any form of sexually explicit content, including any material that involves children or could be considered exploitative in nature.
+* Content that contains or suggests CSAE-related themes is flagged and removed immediately.
+
+**8. Parental Controls and Monitoring**
+
+* We provide tools and resources for parents or guardians to monitor and control their children’s usage of the app, ensuring that minors are protected from harmful or inappropriate content.
+* This includes content filters, restricted access to certain features, and activity reporting options for parents.
+
+**9. Data Protection**
+
+* We prioritize data protection and privacy, ensuring that any personal data of minors is handled in compliance with privacy laws and regulations, such as GDPR or COPPA.
+* We take all necessary steps to prevent unauthorized access to or misuse of personal information, particularly when it relates to minors.
+
+**10. Continuous Improvement**
+
+* We are committed to regularly reviewing and updating our CSAE standards and practices in response to evolving threats and regulatory requirements.
+* User feedback and reports of potential CSAE are continually evaluated to improve the overall safety measures on the platform.
